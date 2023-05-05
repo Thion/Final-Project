@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-mergeDebugResources-37:\\layout\\activity_admin.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-mergeDebugResources-37:\\layout\\activity_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\activity_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-mergeDebugResources-37:\\layout\\fragment_help.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-mergeDebugResources-37:\\layout\\slide_item_container.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\slide_item_container.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-mergeDebugResources-37:/layout/activity_main.xml",
+        "source": "com.example.formosafashionhub.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-mergeDebugResources-37:\\layout\\item_list_item.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\item_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-mergeDebugResources-37:\\layout\\fragment_categories.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\fragment_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-mergeDebugResources-37:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-mergeDebugResources-37:\\layout\\fragment_account.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-mergeDebugResources-37:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-mergeDebugResources-37:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-mergeDebugResources-37:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-mergeDebugResources-37:\\layout\\activity_contact_us.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\activity_contact_us.xml"
+    }
+]

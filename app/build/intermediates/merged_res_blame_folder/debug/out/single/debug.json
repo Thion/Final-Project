@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\layout_activity_view.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\activity_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\layout_activity_admin.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_add_picture.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\add_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_app_main_logo.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\app_main_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_nguo.jpeg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\nguo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_backg_mainactivity.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\backg_mainactivity.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_ic_help.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\ic_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_back_img.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\back_img.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\xml_automotive_app_desc.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\xml\\automotive_app_desc.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_canvas.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\canvas.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\layout_item_list_item.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\item_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_ic_phonecall.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\ic_phonecall.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\layout_slide_item_container.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\slide_item_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_contact_us.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\contact_us.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_show_password.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\layout_fragment_categories.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\fragment_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.example.formosafashionhub.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.example.formosafashionhub.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_ic_category.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\ic_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-pngs-34:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\layout_activity_contact_us.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\layout_fragment_help.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\drawable_rounded_textviews.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\drawable\\rounded_textviews.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.0\\com.example.formosafashionhub.app-main-40:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    }
+]

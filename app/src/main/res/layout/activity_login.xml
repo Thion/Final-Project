@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/canvas"
+    tools:context=".LoginActivity">
+
+    <androidx.cardview.widget.CardView
+        android:backgroundTint="#d3d3d3"
+        android:id="@+id/cardView3"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="78dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginBottom="78dp"
+        android:foregroundGravity="center"
+        app:cardCornerRadius="80px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="344dp"
+            android:layout_height="458dp"
+            android:layout_gravity="center"
+            android:foregroundGravity="center"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="@+id/mEdtEmailLogin"
+            app:layout_constraintTop_toBottomOf="@+id/mEdtEmailLogin">
+
+            <TextView
+                android:id="@+id/textView_signin"
+                android:layout_width="146dp"
+                android:layout_height="0dp"
+                android:layout_marginTop="69dp"
+                android:layout_marginBottom="61dp"
+                android:gravity="center"
+                android:includeFontPadding="true"
+                android:text="Sign In"
+                android:textColor="#800080"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/mEdtEmailLogin"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <EditText
+                android:id="@+id/mEdtEmailLogin"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginStart="29dp"
+                android:layout_marginEnd="29dp"
+                android:layout_marginBottom="38dp"
+                android:background="@drawable/rounded_textviews"
+                android:drawableStart="@drawable/baseline_email_24"
+                android:ems="10"
+                android:hint="Email"
+                android:inputType="text"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                app:layout_constraintBottom_toTopOf="@+id/mEdtPasswordLogin"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView_signin" />
+
+            <EditText
+                android:id="@+id/mEdtPasswordLogin"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginStart="29dp"
+                android:layout_marginEnd="29dp"
+                android:layout_marginBottom="32dp"
+                android:background="@drawable/rounded_textviews"
+                android:drawableStart="@drawable/baseline_lock_24"
+                android:drawableEnd="@drawable/show_password"
+                android:ems="10"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                app:layout_constraintBottom_toTopOf="@+id/mBtnLogin"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/mEdtEmailLogin" />
+
+            <Button
+                android:id="@+id/mBtnLogin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:text="LOGIN"
+                app:layout_constraintBottom_toTopOf="@+id/mTvLogin"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/mEdtPasswordLogin" />
+
+            <TextView
+                android:id="@+id/mTvLogin"
+                android:textColor="#0000FF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="55dp"
+                android:autoLink="all"
+                android:text="Don't have an account? Register."
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/mBtnLogin" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

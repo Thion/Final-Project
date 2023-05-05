@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/canvas"
+    tools:context=".LoginActivity">
+
+    <androidx.cardview.widget.CardView
+        android:backgroundTint="#d3d3d3"
+        android:id="@+id/cardView2"
+        android:layout_width="match_parent"
+        android:layout_height="440dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginEnd="28dp"
+        app:cardCornerRadius="80px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="439dp"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="@+id/mEdtEmailRegister"
+            app:layout_constraintTop_toBottomOf="@+id/mEdtEmailRegister">
+
+            <TextView
+                android:id="@+id/textView_signup"
+                android:layout_width="146dp"
+                android:layout_height="0dp"
+                android:layout_marginTop="31dp"
+                android:layout_marginBottom="33dp"
+                android:gravity="center"
+                android:includeFontPadding="true"
+                android:text="Sign Up"
+                android:textColor="#800080"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/mEdtUsernameRegister"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <EditText
+                android:id="@+id/mEdtUsernameRegister"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginStart="26dp"
+                android:layout_marginEnd="26dp"
+                android:layout_marginBottom="14dp"
+                android:background="@drawable/rounded_textviews"
+                android:drawableStart="@drawable/ic_person"
+                android:ems="10"
+                android:hint="Create Username"
+                android:inputType="text"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                app:layout_constraintBottom_toTopOf="@+id/mEdtEmailRegister"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView_signup" />
+
+            <EditText
+                android:id="@+id/mEdtEmailRegister"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginStart="26dp"
+                android:layout_marginEnd="26dp"
+                android:layout_marginBottom="15dp"
+                android:background="@drawable/rounded_textviews"
+                android:drawableStart="@drawable/baseline_email_24"
+                android:ems="10"
+                android:hint="Enter Email"
+                android:inputType="text"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                app:layout_constraintBottom_toTopOf="@+id/mEdtPasswordRegister"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/mEdtUsernameRegister" />
+
+            <EditText
+                android:id="@+id/mEdtPasswordRegister"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginStart="26dp"
+                android:layout_marginEnd="26dp"
+                android:layout_marginBottom="29dp"
+                android:background="@drawable/rounded_textviews"
+                android:drawableStart="@drawable/baseline_lock_24"
+                android:ems="10"
+                android:hint="Create Password"
+                android:inputType="textPassword"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                app:layout_constraintBottom_toTopOf="@+id/mBtnRegister"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/mEdtEmailRegister" />
+
+            <Button
+                android:id="@+id/mBtnRegister"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="19dp"
+                android:layout_marginBottom="12dp"
+                android:text="REGISTER"
+                app:layout_constraintBottom_toTopOf="@+id/mTvRegister"
+                app:layout_constraintEnd_toEndOf="@+id/mTvRegister"
+                app:layout_constraintTop_toBottomOf="@+id/mEdtPasswordRegister" />
+
+            <TextView
+                android:id="@+id/mTvRegister"
+                android:textColor="#0000FF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="41dp"
+                android:autoLink="all"
+                android:text="Have an account? Login."
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/mBtnRegister" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

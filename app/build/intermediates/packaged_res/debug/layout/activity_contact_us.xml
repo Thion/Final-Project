@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mTvContactUs"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContactUsActivity">
+
+
+    <ImageView
+        android:id="@+id/mIvContactUs"
+        android:layout_width="403dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="59dp"
+        app:layout_constraintBottom_toTopOf="@+id/mTvPhoneNo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/contact_us" />
+
+    <TextView
+
+        android:id="@+id/mTvPhoneNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Phone No"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toTopOf="@+id/mTvActualPhoneNo"
+        app:layout_constraintStart_toStartOf="@+id/mTvActualPhoneNo"
+        app:layout_constraintTop_toBottomOf="@+id/mIvContactUs" />
+
+    <ImageView
+        android:id="@+id/mIconCall"
+        android:layout_width="0dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="12dp"
+        android:clickable="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/mTvActualPhoneNo"
+        app:layout_constraintHorizontal_bias="0.046"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.526"
+        app:srcCompat="@drawable/ic_phonecall" />
+
+    <TextView
+        android:id="@+id/mTvActualPhoneNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="167dp"
+        android:layout_marginBottom="22dp"
+        android:text="+254707983555"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/mTvEmailAddress"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/mIconCall"
+        app:layout_constraintTop_toBottomOf="@+id/mTvPhoneNo" />
+
+    <ImageView
+        android:id="@+id/mIconEmail"
+        android:layout_width="0dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="12dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/mTvActualEmailAddress"
+        app:layout_constraintHorizontal_bias="0.046"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.661"
+        app:srcCompat="@drawable/ic_email" />
+
+    <TextView
+        android:id="@+id/mTvEmailAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="1dp"
+        android:text="Email Address"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toTopOf="@+id/mTvActualEmailAddress"
+        app:layout_constraintStart_toStartOf="@+id/mTvActualEmailAddress"
+        app:layout_constraintTop_toBottomOf="@+id/mTvActualPhoneNo" />
+
+    <TextView
+        android:id="@+id/mTvActualEmailAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="114dp"
+        android:layout_marginBottom="30dp"
+        android:text="tbwachira@gmail.com"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/mTvMessageUs"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/mIconEmail"
+        app:layout_constraintTop_toBottomOf="@+id/mTvEmailAddress" />
+
+    <ImageView
+        android:id="@+id/mIconMessage"
+        android:layout_width="0dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="12dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/mTvActualMessageUs"
+        app:layout_constraintHorizontal_bias="0.046"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.815"
+        app:srcCompat="@drawable/ic_help" />
+
+    <TextView
+        android:id="@+id/mTvMessageUs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="136dp"
+        android:text="Message Us"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/mTvActualMessageUs"
+        app:layout_constraintTop_toBottomOf="@+id/mTvActualEmailAddress" />
+
+    <TextView
+        android:id="@+id/mTvActualMessageUs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="33dp"
+        android:layout_marginEnd="167dp"
+        android:text="+254707983555"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/mIconMessage"
+        app:layout_constraintTop_toTopOf="@+id/mTvMessageUs" />
+</androidx.constraintlayout.widget.ConstraintLayout>
